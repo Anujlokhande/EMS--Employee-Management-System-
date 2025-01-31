@@ -18,12 +18,13 @@ npm install
 npm run dev
 
 
+
+```
 ## Authentication Examples
 ### Admin Login
 
 Email: admin@example.com
 Password: 123
-```
 
 ### Employee Login
 
